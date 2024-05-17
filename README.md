@@ -11,9 +11,6 @@ Besides college, I take extra courses and study English.
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosanaTSF&layout=compact&langs_count=7&theme=dracula"/>
 
-<div align="center">
-  <a href="https://github.com/RosanaTSF">
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -29,11 +26,10 @@ Besides college, I take extra courses and study English.
 
 <div> 
 <a href="https://www.instagram.com/papenef/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.notion.so/rosanatsf/Study-Planner" target="_blank"><img src="https://img.shields.io/badge/Notion-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-This code does not contain any Python syntax errors.
+<a href="https://www.notion.so/rosanatsf/Study-Planner" target="_blank"><img src="https://img.shields.io/badge/Notion-9146FF?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
+</div>
     
 <div align="center">
-<a href="https://github.com/RosanaTSF">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RosanaTSF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
 ![Snake animation](https://github.com/RosanaTSF/RosanaTSF/blob/output/github-contribution-grid-snake.svg)
