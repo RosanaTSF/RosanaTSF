@@ -31,7 +31,5 @@ Besides college, I take extra courses and study English.
     
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RosanaTSF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
-![Snake animation](https://github.com/RosanaTSF/RosanaTSF/blob/output/github-contribution-grid-snake.svg)
 
 </div>
